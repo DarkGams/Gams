@@ -1,0 +1,6 @@
+pip install socket 
+pip install datetime 
+pip install colorama 
+pip install pystyle
+pip install secrets
+pip install hashlib 
